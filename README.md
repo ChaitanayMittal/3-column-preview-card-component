@@ -24,8 +24,8 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![image](https://user-images.githubusercontent.com/73767753/124785673-ad2c0900-df64-11eb-8791-01e661810dae.png)
 
-![](./screenshot.jpg)
 
 ### Links
 
